@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratesins
+- 👋 Hi, I’m Prateek
 - 👀 I’m interested in Analytics and Project management
 - 🌱 I’m currently learning Data Analytics and Machine Learning
 - 💞️ I’m looking to collaborate on anything cool
